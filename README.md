@@ -6,7 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/levontaeAbrams/osTicket-prereqs)
   
   
-- <b>Microsoft Azure</b>
- Preparing AD Infrastructure in Azure
+- <b>Microsoft Azure</b>   Preparing AD Infrastructure in Azure
+
+https://github.com/levontaeAbrams/Preparing-AD-Infrastructure-in-Azure
 
 <h2>🤳Connect with me:</h2> [linkedin]: https://www.linkedin.com/in/levontae-abrams-75880a266
