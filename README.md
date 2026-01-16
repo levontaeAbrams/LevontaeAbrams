@@ -11,6 +11,4 @@
   
   .(https://github.com/levontaeAbrams/Configuring-On-premises-Active-Directory-within-Azure-VMs).
 
-<h2>🤳Connect with me:</h2>
-
-[linkedin]: https://www.linkedin.com/in/levontae-abrams-75880a266
+<h2>🤳Connect with me:</h2> [linkedin]: https://www.linkedin.com/in/levontae-abrams-75880a266
